@@ -148,7 +148,7 @@ tr:nth-child(odd) td {
   .masters .calligrapher .description {
     padding-left: 90px; }
 /* line 172, ../css/style.css.scss */
-.masters .last {
+.masters:last-child {
   min-height: 100px; }
 
 /* line 177, ../css/style.css.scss */
